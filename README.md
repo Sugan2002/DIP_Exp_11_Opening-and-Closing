@@ -1,4 +1,7 @@
-# Opening-and-Closing
+## EX NO : 11
+## Date : 
+# <p align="center"> Opening and Closing </P>
+
 
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
@@ -70,6 +73,18 @@ plt.axis('off')
 
 ```
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
 ## Output:
@@ -81,7 +96,12 @@ plt.axis('off')
 ### Display the result of Opening
 ![2](https://user-images.githubusercontent.com/77089743/172055114-51d8d3cd-5a0d-4965-80a9-b1ba004d5857.PNG)
 
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ### Display the result of Closing
 ![3](https://user-images.githubusercontent.com/77089743/172055126-75c2bd20-d230-493f-84b5-1d05f05dc6d4.PNG)
